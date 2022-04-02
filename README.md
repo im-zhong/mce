@@ -11,4 +11,5 @@ More Morden C++ Programming Experience on Linux
 7. auto code style: maybe clang tidy?
 8. IDE: vscode or neovim
 9. try use import instead include
-10. ...
+10. use git
+11. static analyzer: clang-tidy cppling cppcheck
