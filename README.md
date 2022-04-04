@@ -13,3 +13,4 @@ More Morden C++ Programming Experience on Linux
 9. try use import instead include
 10. use git
 11. static analyzer: clang-tidy cppling cppcheck
+12. runtime check: memory data race .. https://gcc.gnu.org/onlinedocs/gcc/Instrumentation-Options.html
